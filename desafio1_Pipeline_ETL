@@ -1,1 +1,12 @@
 
+### **Pipeline de ETL com Python - Sistema de Notas**
+
+**Desafio de Projeto - Santander Bootcamp Ciência de Dados com Python 2023**
+
+Objetivo: Criar um contexto para aplicar Pipeline ETL utilizando Python.
+
+Contexto: Estabelecer um sistema de notas, a partir de dados dos alunos disponiveis em tabela.
+
+    1. Obter os dados dos alunos;
+    2. Analisar e transformar os dados para gerar a nota final;
+    3. Atualizar e enviar essas informações para arquivo csv.
